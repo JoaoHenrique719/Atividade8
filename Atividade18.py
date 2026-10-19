@@ -1,0 +1,5 @@
+print("Pegue a chave da porta.")
+print("Coloque a chave na fechadura.")
+print("Gire a chave.")
+print("Puxe a maçaneta.")
+print("Abra a porta.")
